@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>hellomvc</module>
+        <module>hellomvc-annotation</module>
     </modules>
 
     <!-- 公用依赖 -->
