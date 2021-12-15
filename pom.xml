@@ -11,6 +11,7 @@
     <modules>
         <module>hellomvc</module>
         <module>hellomvc-annotation</module>
+        <module>hellospring</module>
     </modules>
 
     <!-- 公用依赖 -->
