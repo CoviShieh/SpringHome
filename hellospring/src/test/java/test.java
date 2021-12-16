@@ -1,4 +1,5 @@
-import com.kuang.pojo.Hello;
+import com.kuang.pojo.A;
+import com.kuang.pojo.B;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -12,9 +13,8 @@ public class test {
     public static void main(String[] args) {
         //获取spring上下文对象
         ApplicationContext context = new ClassPathXmlApplicationContext("beans.xml");
-
-        Hello hello = (Hello)context.getBean("hello");
-        System.out.println(hello);
+        A a = (A)context.getBean("a");
+        B b = (B)context.getBean("b");
     }
 
 }
