@@ -13,6 +13,7 @@
         <module>hellomvc-annotation</module>
         <module>hellospring</module>
         <module>hellospring-annotation</module>
+        <module>spring-aop</module>
     </modules>
 
     <!-- 公用依赖 -->

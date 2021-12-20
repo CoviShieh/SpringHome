@@ -1,5 +1,5 @@
-import com.kuang.pojo.A;
-import com.kuang.pojo.B;
+import com.kuang.demo1.pojo.A;
+import com.kuang.demo1.pojo.B;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

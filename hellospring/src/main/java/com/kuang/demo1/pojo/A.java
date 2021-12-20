@@ -1,4 +1,4 @@
-package com.kuang.pojo;
+package com.kuang.demo1.pojo;
 
 /**
  * @author xiewh
